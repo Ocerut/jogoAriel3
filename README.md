@@ -4,7 +4,7 @@ Artur Salvador Moro - 00121046 Carlos Daniel Hackmam - 00122988 Nikolas Bendinel
 
 RESUMO DA FASE
 
-Ratos Alienigenas chegam de sua nave espacial e sequestram a vaca da mãe do Chad Cheddar (que realmente é uma vaca) e ele precisara sava-la atravessando varios obstaculos perigosos
+Ratos Alienigenas chegam de sua nave espacial e sequestram a mãe do Chad Cheddar e ele precisara salva-la atravessando varios obstaculos perigosos
 
 CONTROLES BÁSICOS PARA JOGAR
 
